@@ -1,0 +1,1 @@
+# thumbscore-ai
