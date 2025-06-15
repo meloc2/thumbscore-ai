@@ -1,0 +1,19 @@
+- [x] Definir a arquitetura geral do aplicativo (backend, frontend, ML).
+- [x] Escolher as tecnologias e frameworks específicos.
+- [x] Esboçar o design do banco de dados (se necessário).
+- [x] Planejar a estrutura de pastas do projeto.
+- [x] Criar um ambiente de desenvolvimento inicial.
+- [x] Criar estrutura básica do backend FastAPI.
+- [x] Implementar endpoints principais da API.
+- [x] Configurar CORS e middleware.
+- [x] Testar a API básica.
+- [x] Implementar módulos de ML e análise de imagem.
+- [x] Criar processador de imagens com OpenCV.
+- [x] Desenvolver preditor de pontuação com TensorFlow.
+- [x] Criar interface frontend responsiva com React.
+- [x] Implementar funcionalidades de upload e análise.
+- [x] Testar integração frontend-backend.
+- [x] Criar documentação completa.
+- [x] Preparar arquivos de deploy (Docker, scripts).
+- [x] Finalizar entrega do projeto.
+

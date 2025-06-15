@@ -1,0 +1,2 @@
+# ThumbScore AI Backend Package
+
